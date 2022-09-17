@@ -1,4 +1,4 @@
-<h1>Intermediate SQL I</h1>
+<h1>Intermediate SQL Part II</h1>
 
 
 <h2>Description</h2>
